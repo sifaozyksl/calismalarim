@@ -1,2 +1,2 @@
 # calismalarim
-Matrisler çıkartma ve bölme
+Matrisler de çıkartma ve bölme
